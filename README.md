@@ -53,21 +53,21 @@ El archivo `generar_carreras.cpp` permite:
 
 Cada carrera contenida en este archivo tendrá el siguiente formato:
 
-Race: <Nombre del Circuito> (<País del Circuito>)
+Race: "Nombre del circuito" ("País del circuito")
 Date: YYYY-MM-DD
-Laps: <Número de Vueltas>
-Lap Distance (km): <Distancia por vuelta en kilómetros>
+Laps: "Número de vueltas"
+Lap Distance (km): "Distancia por vuelta en kilómetros"
 End Positions:
-1. <Nombre del Piloto>
-2. <Nombre del Piloto>
-3. <Nombre del Piloto>
-4. <Nombre del Piloto>
-5. <Nombre del Piloto>
-6. <Nombre del Piloto>
-7. <Nombre del Piloto>
-8. <Nombre del Piloto>
-9. <Nombre del Piloto>
-10. <Nombre del Piloto>
+1. "Nombre del Piloto"
+2. "Nombre del Piloto"
+3. "Nombre del Piloto"
+4. "Nombre del Piloto"
+5. "Nombre del Piloto"
+6. "Nombre del Piloto"
+7. "Nombre del Piloto"
+8. "Nombre del Piloto"
+9. "Nombre del Piloto"
+10. "Nombre del Piloto"
 
 Si hubiera varias carreras, éstas estarán separadas por una línea en blanco.
 
